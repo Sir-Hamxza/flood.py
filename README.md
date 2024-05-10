@@ -31,7 +31,6 @@
 * `cd $HOME`
 * `ls`
 * `cd flood.py`
-* `pip install cloudscraper`
 * `ls`
 * `python flood.py`
 ```
