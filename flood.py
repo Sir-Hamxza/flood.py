@@ -65,4 +65,5 @@ def main():
     http_flood(url, duration, threads, rps)
 
 if __name__ == "__main__":
-    main(
+    main()
+
