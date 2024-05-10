@@ -27,7 +27,7 @@
 * `apt-get upgrade -y`
 * `pkg install python -y`
 * `pkg install git -y`
-* `git clone https://github.com/Sir-Hamxza/flood.py`
+* `git clone https://github.com/Sir-Hamxza/flood.py/tree/main`
 * `cd $HOME`
 * `ls`
 * `cd flood.py`
